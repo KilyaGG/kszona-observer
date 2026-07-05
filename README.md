@@ -7,12 +7,12 @@
 ## 🚀 Инструкция по установке
 
 ### **Шаг 1. Установите менеджер скриптов**
-Установите официальное расширение **[Tampermonkey]([https://google.com](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru))**.  
+Установите официальное расширение [Tampermonkey]([https://google.com](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru)).  
 *Оно необходимо, чтобы код запускался вместе с игрой. Расширение абсолютно безопасное и проверенное — у него более 12 млн скачиваний.*
 
 ### **Шаг 2. Установите основной скрипт**
 Перейдите по ссылке ниже и в открывшемся окне Tampermonkey нажмите кнопку **«Установить»** (Install):  
-👉 **[Установить Инструмент №1: Основной код]([https://github.com](https://github.com/KilyaGG/kszona-observer/raw/083d27381b309fd7cfae82d44db4c1b817fcad6a/observer-core.user.js))**
+👉 [Установить Инструмент №1: Основной код]([https://github.com](https://github.com/KilyaGG/kszona-observer/raw/083d27381b309fd7cfae82d44db4c1b817fcad6a/observer-core.user.js))
 
 ### **Шаг 3. Установите кнопку интерфейса (Рекомендуется)**
 Этот шаг не обязателен, но делает работу гораздо приятнее, добавляя визуальную кнопку в шапку сайта:  

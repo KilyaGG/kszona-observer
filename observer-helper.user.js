@@ -4,8 +4,8 @@
 // @run-at       document-end
 // @grant        none
 // @author       Хзшка
-// @updateURL    https://github.com/KilyaGG/kszona-observer/raw/083d27381b309fd7cfae82d44db4c1b817fcad6a/observer-core.user.js
-// @downloadURL  https://github.com/KilyaGG/kszona-observer/raw/083d27381b309fd7cfae82d44db4c1b817fcad6a/observer-core.user.js
+// @updateURL    https://github.com/KilyaGG/kszona-observer/raw/refs/heads/main/observer-helper.user.js
+// @downloadURL  https://github.com/KilyaGG/kszona-observer/raw/refs/heads/main/observer-helper.user.js
 // ==/UserScript==
 
 (function() {
